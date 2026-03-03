@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 *.pyc
 .env
 .idea/
+=======
+*.json
+.env
+__pycache__/
+*.pyc
+>>>>>>> 2753e3179e2d108e4e68a68bf23bc38c37aa3249
