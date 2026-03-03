@@ -1,1 +1,8 @@
-python-dotenv
+python-telegram-bot==20.7
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
+google-api-python-client==2.108.0
+SpeechRecognition==3.10.0
+pydub==0.25.1
+ffmpeg-python==0.2.0
+python-dotenv==1.0.0

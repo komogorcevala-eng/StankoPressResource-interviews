@@ -7,7 +7,6 @@ from env import BOT_TOKEN, ADMIN_CHAT_ID, GOOGLE_DRIVE_ROOT_FOLDER_ID
 from google_drive_oauth import drive_service
 import speech_recognition as sr
 import tempfile
-import asyncio
 import subprocess
 
 text_blocks = [
