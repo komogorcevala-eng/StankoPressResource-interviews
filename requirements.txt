@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 aiogram==3.17.0
 python-dotenv
-=======
 python-telegram-bot==20.7
 python-dotenv==1.0.0
 SpeechRecognition==3.10.0
@@ -9,4 +7,3 @@ google-api-python-client==2.108.0
 google-auth-oauthlib==1.1.0
 google-auth-httplib2==0.1.1
 pydub==0.25.1
->>>>>>> 2753e3179e2d108e4e68a68bf23bc38c37aa3249
