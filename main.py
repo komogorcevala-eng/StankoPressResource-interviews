@@ -1,8 +1,5 @@
 import os
 import logging
-from aiogram import Bot, Dispatcher, types
-from aiogram.types import Message, ReplyKeyboardRemove, ReplyKeyboardMarkup
-from aiogram.filters import Command
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 from datetime import datetime
 from env import BOT_TOKEN, ADMIN_CHAT_ID, GOOGLE_DRIVE_ROOT_FOLDER_ID
